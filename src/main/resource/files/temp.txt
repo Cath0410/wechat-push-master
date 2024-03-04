@@ -1,0 +1,6 @@
+日期：{{riqi.DATA}} 天气：{{tianqi.DATA}}
+温度：{{temperature.DATA}} 度
+距离你的生日还有 {{shengri.DATA}}
+彩虹p：{{caihongpi.DATA}}
+每日励志：{{jinju.DATA}}
+祝你：{{hope.DATA}}
